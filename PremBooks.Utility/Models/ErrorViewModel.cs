@@ -1,6 +1,6 @@
 using System;
 
-namespace PremBookStore.Models
+namespace PremBooks.Utility.Models
 {
     public class ErrorViewModel
     {

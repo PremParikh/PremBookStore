@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using PremBooks.DataAccess.Models;
 using PremBookStore.Models;
 using System;
 using System.Collections.Generic;
